@@ -1,0 +1,13 @@
+D:\DICOM_project\dicom_example\DicomImageViewer\bin\Release\DicomImageViewer.exe.config
+D:\DICOM_project\dicom_example\DicomImageViewer\bin\Release\DicomImageViewer.exe
+D:\DICOM_project\dicom_example\DicomImageViewer\bin\Release\DicomImageViewer.pdb
+D:\DICOM_project\dicom_example\DicomImageViewer\obj\Release\DicomImageViewer.csprojResolveAssemblyReference.cache
+D:\DICOM_project\dicom_example\DicomImageViewer\obj\Release\DicomImageViewer.DicomTagsForm.resources
+D:\DICOM_project\dicom_example\DicomImageViewer\obj\Release\DicomImageViewer.ImagePanelControl.resources
+D:\DICOM_project\dicom_example\DicomImageViewer\obj\Release\DicomImageViewer.MainForm.resources
+D:\DICOM_project\dicom_example\DicomImageViewer\obj\Release\DicomImageViewer.Properties.Resources.resources
+D:\DICOM_project\dicom_example\DicomImageViewer\obj\Release\DicomImageViewer.WindowLevelGraphControl.resources
+D:\DICOM_project\dicom_example\DicomImageViewer\obj\Release\DicomImageViewer.csproj.GenerateResource.cache
+D:\DICOM_project\dicom_example\DicomImageViewer\obj\Release\DicomImageViewer.csproj.CoreCompileInputs.cache
+D:\DICOM_project\dicom_example\DicomImageViewer\obj\Release\DicomImageViewer.exe
+D:\DICOM_project\dicom_example\DicomImageViewer\obj\Release\DicomImageViewer.pdb
