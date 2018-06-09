@@ -1,0 +1,14 @@
+C:\Users\hp\Desktop\Source\DicomImageViewer\bin\Debug\DicomImageViewer.exe.config
+C:\Users\hp\Desktop\Source\DicomImageViewer\bin\Debug\DicomImageViewer.exe
+C:\Users\hp\Desktop\Source\DicomImageViewer\bin\Debug\DicomImageViewer.pdb
+C:\Users\hp\Desktop\Source\DicomImageViewer\obj\Debug\DicomImageViewer.ImagePanelControl.resources
+C:\Users\hp\Desktop\Source\DicomImageViewer\obj\Debug\DicomImageViewer.ClientFrm.resources
+C:\Users\hp\Desktop\Source\DicomImageViewer\obj\Debug\DicomImageViewer.DicomTagsForm.resources
+C:\Users\hp\Desktop\Source\DicomImageViewer\obj\Debug\DicomImageViewer.MainForm.resources
+C:\Users\hp\Desktop\Source\DicomImageViewer\obj\Debug\DicomImageViewer.Properties.Resources.resources
+C:\Users\hp\Desktop\Source\DicomImageViewer\obj\Debug\DicomImageViewer.ServerFrm.resources
+C:\Users\hp\Desktop\Source\DicomImageViewer\obj\Debug\DicomImageViewer.csproj.GenerateResource.cache
+C:\Users\hp\Desktop\Source\DicomImageViewer\obj\Debug\DicomImageViewer.csproj.CoreCompileInputs.cache
+C:\Users\hp\Desktop\Source\DicomImageViewer\obj\Debug\DicomImageViewer.exe
+C:\Users\hp\Desktop\Source\DicomImageViewer\obj\Debug\DicomImageViewer.pdb
+C:\Users\hp\Desktop\Source\DicomImageViewer\obj\Debug\DicomImageViewer.csprojResolveAssemblyReference.cache
